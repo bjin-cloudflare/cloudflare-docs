@@ -21,7 +21,7 @@ The following products and features are available on the Cloudflare China Networ
 | Web Application Firewall (WAF) | [WAF custom rules](/waf/custom-rules/) | Custom WAF rules. Supports uploaded content scanning and managed challenges. |
 | Web Application Firewall (WAF) | [Rate limiting rules](/waf/rate-limiting-rules/) | Define rate limits for incoming requests matching an expression, and the action to take when those rate limits are reached. |
 | [Page Shield](/page-shield/) | Page Shield | Simplifies external script management by tracking loaded resources like scripts and providing alerts when it detects new resources or malicious scripts. |
-| [Bot Management](/bots/) | Bot detection and mitigation | Provides bot identification and protection for a domain. Only supports certain Machine Learning (ML) models. |
+| [Bot Management](/bots/) | Bot detection and mitigation | Provides bot identification and protection for a domain.|
 | [Argo Smart Routing](/argo-smart-routing/) | Layer 7 smart routing | Layer 7 (application layer) traffic smart-routed more efficiently to origin. |
 | [Rules](/rules/) | Page Rules (legacy), Bulk Redirects, Transform Rules, Origin Rules | Make adjustments to requests and responses, configure Cloudflare settings, and trigger specific actions for matching requests. |
 
